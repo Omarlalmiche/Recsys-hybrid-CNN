@@ -1,5 +1,5 @@
 # TP3
-Travaux Pratiques - Systemes de Recommandation Hybride, Classification (CNN) et Expressions Regulieres
+Systemes de Recommandation Hybride, Classification (CNN) et Expressions Regulieres
 *Prérequis
 pip install pandas numpy scikit-learn matplotlib tensorflow==2.16.1
 
